@@ -1,34 +1,32 @@
-# 👋 Привет, я Тимур 
+# 👋 Привет, я Тимур
 
-**Фронтенд-разработчик, увлеченный созданием современных веб-приложений**
+**Fullstack-разработчик**
 
-Я сосредоточен на разработке SPA (Single Page Applications), стремлюсь писать чистый, поддерживаемый код и активно погружаюсь в изучение современных фреймворков и инструментов. В настоящее время углубляю свои знания в работе с DOM для создания более интерактивного и динамичного пользовательского опыта.
-
----
-
-### 🛠️ **Технологии и инструменты**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+Строю современные веб-приложения на React/Next.js и TypeScript. Проектирую архитектуру с сервисным слоем, настраиваю RLS в Supabase, довожу сложные системы до работающего продукта.
 
 ---
 
-### 🚀 **Мои ключевые проекты**
+### 🛠️ Технологии
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| **[Адаптивный Лендинг](https://github.com/Zero4nik/landingJS.github.io) | Чистый и современный лендинг с адаптивной версткой, демонстрирующий навыки HTML/CSS/JS | `HTML` `CSS` `JS` |
-| **[Интерактивная Галерея](https://github.com/Zero4nik/Filterable-Gallery) | Галерея изображений с функционалом модального окна, фильтрации и слайдера, реализованная на нативном JavaScript. | `HTML` `JS` `DOM` |
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
-### 📫 **Как со мной связаться**
+### 🚀 Ключевые проекты
 
-- **Email:** [freefaer0tt@gmail.com](mailto:freefaer0tt@gmail.com)
+| Проект | Описание |
+|--------|----------|
+| **[WhisperBox](https://github.com/Msmink9191/whisperbox-frontend)** | Полноценное приложение с архитектурой сервисного слоя, RLS в Supabase, real-time обновлениями. Frontend на Next.js + TypeScript, backend с интеграцией внешних API. |
+| **[Sofa Analyst](https://github.com/Msmink9191/sofa-analyst)** | Аналитический дашборд с фильтрацией, визуализацией данных и сложной логикой на клиенте. TypeScript, компонентный подход, кастомные хуки. |
+
+---
+
+### 📫 Контакты
+
+- **Email:** freefaer0tt@gmail.com
 - **Telegram:** [@Msmink9191](https://t.me/Msmink9191)
 - **GitHub:** [Msmink9191](https://github.com/Msmink9191)
-- **Telegram channel** [(t.me/frontend_back)](https://t.me/frontend_back)
-
----
