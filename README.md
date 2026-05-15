@@ -1,56 +1,54 @@
 # Zero4nik
 
-### Fullstack Developer / Архитектор клиент-серверных решений
+**Fullstack Developer / Архитектор клиент-серверных решений**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00E5FF?style=for-the-badge&logo=github)](mailto:timurmaksiev123@gmail.com)
+🔹 **Open to Work** 🔹
 
 ---
 
 ## 👨‍💻 Обо мне
 
-**Тимур**,16 лет
-
-8 месяцев активной разработки. Самоучка, первый курс ПГТК.
+**Тимур**, 16 лет. 8 месяцев активной разработки. Самоучка, первый курс ПГТК.
 
 Строю веб-приложения от идеи до деплоя. Проектирую архитектуру, пишу бэкенд на Node.js с многослойной структурой (Routes → Controllers → Services → Repositories), фронтенд на React/Next.js с TypeScript, связываю всё через REST API, контейнеризирую и выкатываю в продакшен.
 
-**Принцип:** изучаю новое без боязни забыть старое. Каждый проект - шаг вперёд, а не повтор пройденного,доделывая   даже если для этого приходится откатить изменения и написать всё заново.
+**Принцип:** изучаю новое без боязни забыть старое. Доделываю, даже если для этого приходится откатить изменения и написать всё заново.
 
 ---
 
 ## 🛠️ Технологический стек
 
 ### Frontend
-![React](https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-00E5FF?style=for-the-badge&logo=next.js&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00E5FF?style=for-the-badge&logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-00E5FF?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00E5FF?style=for-the-badge&logo=framer&logoColor=black)
-![Context API](https://img.shields.io/badge/Context%20API-00E5FF?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-00FFD1?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-00FFD1?style=for-the-badge&logo=next.js&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FFD1?style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFD1?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00FFD1?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00FFD1?style=for-the-badge&logo=css3&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00FFD1?style=for-the-badge&logo=framer&logoColor=black)
+![Context API](https://img.shields.io/badge/Context%20API-00FFD1?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-00E5FF?style=for-the-badge&logo=express&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-00E5FF?style=for-the-badge&logo=prisma&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00E5FF?style=for-the-badge&logo=postgresql&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-00E5FF?style=for-the-badge&logo=redis&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-00E5FF?style=for-the-badge&logo=jsonwebtokens&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-00E5FF?style=for-the-badge&logo=socket.io&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-00E5FF?style=for-the-badge&logo=supabase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-00E5FF?style=for-the-badge&logo=stripe&logoColor=black)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-00E5FF?style=for-the-badge&logo=next.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-00FFD1?style=for-the-badge&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-00FFD1?style=for-the-badge&logo=express&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-00FFD1?style=for-the-badge&logo=prisma&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFD1?style=for-the-badge&logo=postgresql&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-00FFD1?style=for-the-badge&logo=redis&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-00FFD1?style=for-the-badge&logo=jsonwebtokens&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-00FFD1?style=for-the-badge&logo=socket.io&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-00FFD1?style=for-the-badge&logo=supabase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-00FFD1?style=for-the-badge&logo=stripe&logoColor=black)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-00FFD1?style=for-the-badge&logo=next.js&logoColor=black)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge&logo=docker&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00E5FF?style=for-the-badge&logo=githubactions&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)
-![Render](https://img.shields.io/badge/Render-00E5FF?style=for-the-badge&logo=render&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-00E5FF?style=for-the-badge&logo=vitest&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-00E5FF?style=for-the-badge&logo=jest&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-00E5FF?style=for-the-badge&logo=postman&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00FFD1?style=for-the-badge&logo=docker&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00FFD1?style=for-the-badge&logo=githubactions&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-00FFD1?style=for-the-badge&logo=vercel&logoColor=black)
+![Render](https://img.shields.io/badge/Render-00FFD1?style=for-the-badge&logo=render&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-00FFD1?style=for-the-badge&logo=vitest&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-00FFD1?style=for-the-badge&logo=jest&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00FFD1?style=for-the-badge&logo=git&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-00FFD1?style=for-the-badge&logo=postman&logoColor=black)
 
 ---
 
@@ -99,10 +97,10 @@
 
 ## 📫 Контакты
 
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:timurmaksiev123@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Msmink9191)
-[![GitHub](https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Zero4nik)
-[![HH.ru](https://img.shields.io/badge/Резюме%20HH.ru-00E5FF?style=for-the-badge&logo=headhunter&logoColor=black)](https://hh.ru)
+[![Email](https://img.shields.io/badge/Email-00FFD1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:timurmaksiev123@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-00FFD1?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Msmink9191)
+[![GitHub](https://img.shields.io/badge/GitHub-00FFD1?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Zero4nik)
+[![HH.ru](https://img.shields.io/badge/Резюме%20HH.ru-00FFD1?style=for-the-badge&logo=headhunter&logoColor=black)](https://hh.ru)
 
 ---
 
@@ -114,4 +112,5 @@
 
 ---
 
+> *«Цель — не чтобы заметили, а чтобы количество целевых обращений создало неизбежность хотя бы одного делового ответа.»*
 > *«Цель — не чтобы заметили, а чтобы количество целевых обращений создало неизбежность хотя бы одного делового ответа.»*
