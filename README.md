@@ -1,8 +1,6 @@
 # Zero4nik
 
-**Fullstack Developer / Архитектор клиент-серверных решений**
-
-🔹 **Open to Work** 🔹
+**Frontend Developer с бэкенд-опытом**
 
 ---
 
